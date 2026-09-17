@@ -1,0 +1,13 @@
+date change option is availed, the
+ticket cannot be further cancelled.
+How to Change the journey date of your ticket in redbus app
+Go to my bookings, choose the journey & change date
+Cancellation policy
+Your current cancellation charges according to the cancellation policy is highlighted below
+Cancellation time
+Cancellation charges
+  Before 22nd Feb 10:45 PM
+  Rs. 61.35(15%)
+  After 22nd Feb 10:45 PM & Before 24th Feb 10:45 PM
+  Rs. 122.7(30%)
+  After 24th Feb 10:45 PM & Before 25th Feb 10:45

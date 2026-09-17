@@ -1,0 +1,7 @@
+Terms and conditions
+1. redBus* is an online ticketing platform. It does not operate bus services of its own. In order to provide a comprehensive choice of bus operators,
+departure times and prices to customers, it has tied up with many bus operators.
+redBus responsibilities include:
+(1) Issuing a valid ticket (a ticket that will be accepted by the bus operator) for its network of bus operators
+(2) Providing refund and support in the event of cancellation
+(3) Providing customer support and

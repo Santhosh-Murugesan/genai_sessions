@@ -1,0 +1,7 @@
+the e-ticket or m-ticket. 
+(2) A valid identity proof 
+Failing to do so, they may not be allowed to board the bus.
+4. Change of bus: In case the bus operator changes the type of bus due to some reason, redBus will refund the differential amount to the customer
+upon being intimated by the customers in 24 hours of the journey.
+5. Amenities for this bus as shown on redBus have been configured and provided by the bus provider (bus operator). These amenities will be provided
+unless there are some

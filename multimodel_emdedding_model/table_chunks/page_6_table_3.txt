@@ -1,0 +1,14 @@
+|Table 18: accounts, 2011 (£, thousands)|Col2|Col3|
+|---|---|---|
+|**Accounting item**|**Accounting item**|**2011**|
+|**Income**|** General income**|200,000|
+|**Income**|**Increase in value, WIP**|30,000|
+|**Income**|**Income subtotal**|**230,000**|
+|**Administrative costs**|**Staff**|(150,000)|
+|**Administrative costs**|**Early departures**|(20,000)|
+|**Administrative costs**|**Other operating costs**|(10,000)|
+|**Administrative costs**|**Depreciation**|(10,000)|
+|**Programme costs**|**Impairment loss**|(10,000)|
+|**Programme costs**|**Costs subtotal**|**(200,000)**|
+|**Balance**|**Balance**|**30,000**|
+

@@ -1,0 +1,15 @@
+|problems resolved)|Col2|Col3|Col4|
+|---|---|---|---|
+|||**2011**|**2010 restated**|
+|**Income**|**General income**|250,000|200,000|
+|**Income**|**Increase in value**<br>|15,000|30,000|
+|**Income**|**T talincome**|**265,000**|**230,000**|
+|**Administrative costs**|**Staff costs**|(200,000)|(150,000)|
+|**Administrative costs**|**Early departures**|(10,000)|(20,000)|
+|**Administrative costs**|**Other operating costs**|(25,000)|(10,000)|
+|**Administrative costs**|**Depreciation**|(10,000)|(10,000)|
+|**Programme costs**|**Impairment loss**|(10,000)|(5,000)|
+|**Programme costs**|**Other**<br>|(5,000)|(5,000)|
+|**Programme costs**|**T  Tota osts**|**(260,000)**|**(200,000)**|
+|**Surplus**|**Surplus**|**5,000**|**30,000**|
+

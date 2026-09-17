@@ -1,0 +1,7 @@
+|Col1|2008|Col3|2009|Col5|
+|---|---|---|---|---|
+|**Name**|**Yes**|**No**|**Yes**|**No**|
+|**Bob**|2|5|6|7|
+|**Sue**|3|8|4|7|
+|**Sam**|[data relating to both columns in<br>a single cell spanning both]|[data relating to both columns in<br>a single cell spanning both]|[data relating to both columns in<br>a single cell spanning both]|[data relating to both columns in<br>a single cell spanning both]|
+

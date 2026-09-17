@@ -1,0 +1,7 @@
+changing the boarding point and/or using a pick-up vehicle at the boarding point to take customers to the bus departure point.
+2. The departure time mentioned on the ticket are only tentative timings. However the bus will not leave the source before the time that is mentioned on
+the ticket.
+3. Passengers are required to furnish the following at the time of boarding the bus: 
+(1) A digital copy of the e-ticket or m-ticket. 
+(2) A valid identity proof 
+Failing to do so, they may not be allowed to

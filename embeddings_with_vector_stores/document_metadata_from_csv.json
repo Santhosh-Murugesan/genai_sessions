@@ -1,0 +1,762 @@
+{
+    "0": {
+        "ID": "exp_8885chosj",
+        "Date": "2026-07-31",
+        "Category": "Transport",
+        "Amount": 50,
+        "Description": "Metro to tinfactory",
+        "Created At": "2026-08-06T08:32:53.901Z"
+    },
+    "1": {
+        "ID": "exp_h7ijlbh5a",
+        "Date": "2026-07-30",
+        "Category": "Shopping",
+        "Amount": 20,
+        "Description": "Surf excel liqued",
+        "Created At": "2026-08-06T08:32:24.795Z"
+    },
+    "2": {
+        "ID": "exp_ywabfitx2",
+        "Date": "2026-07-30",
+        "Category": "Transport",
+        "Amount": 172,
+        "Description": "Uber bike to pg",
+        "Created At": "2026-08-06T08:30:16.955Z"
+    },
+    "3": {
+        "ID": "exp_7vfu9j4p0",
+        "Date": "2026-07-29",
+        "Category": "Others",
+        "Amount": 820,
+        "Description": "Thiruvannamali expenses",
+        "Created At": "2026-08-06T08:27:49.473Z"
+    },
+    "4": {
+        "ID": "exp_2a181ud5k",
+        "Date": "2026-07-28",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Pg to office by bus",
+        "Created At": "2026-08-06T08:18:51.296Z"
+    },
+    "5": {
+        "ID": "exp_4zyp175g4",
+        "Date": "2026-07-28",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Office to pg by bus",
+        "Created At": "2026-08-06T08:19:19.106Z"
+    },
+    "6": {
+        "ID": "exp_bo1egimgm",
+        "Date": "2026-07-28",
+        "Category": "Others",
+        "Amount": 150,
+        "Description": "Haircut",
+        "Created At": "2026-08-06T08:19:52.010Z"
+    },
+    "7": {
+        "ID": "exp_wsp1bn6pb",
+        "Date": "2026-07-28",
+        "Category": "Transport",
+        "Amount": 90,
+        "Description": "Metro to deepanjani nagar",
+        "Created At": "2026-08-06T08:21:10.457Z"
+    },
+    "8": {
+        "ID": "exp_xgoqnbjva",
+        "Date": "2026-07-28",
+        "Category": "Food",
+        "Amount": 146,
+        "Description": "Cake and gift at loyal city",
+        "Created At": "2026-08-06T08:20:31.036Z"
+    },
+    "9": {
+        "ID": "exp_fxn26wk54",
+        "Date": "2026-07-27",
+        "Category": "Shopping",
+        "Amount": 424,
+        "Description": "Kashmiri bangale",
+        "Created At": "2026-08-06T08:17:07.607Z"
+    },
+    "10": {
+        "ID": "exp_rp7s7p860",
+        "Date": "2026-07-27",
+        "Category": "Travel",
+        "Amount": 504,
+        "Description": "Thiruvannamali bus booking",
+        "Created At": "2026-08-06T04:09:02.589Z"
+    },
+    "11": {
+        "ID": "exp_sfdtyqxv9",
+        "Date": "2026-07-27",
+        "Category": "Others",
+        "Amount": 790,
+        "Description": "Thiruvannamali room booking",
+        "Created At": "2026-08-06T04:08:25.788Z"
+    },
+    "12": {
+        "ID": "exp_snj43zbm0",
+        "Date": "2026-07-27",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Pg to office bud",
+        "Created At": "2026-08-06T08:16:24.427Z"
+    },
+    "13": {
+        "ID": "exp_tqy9blx2w",
+        "Date": "2026-07-27",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Office to pg bus",
+        "Created At": "2026-08-06T08:18:06.994Z"
+    },
+    "14": {
+        "ID": "exp_9eg7x66zy",
+        "Date": "2026-07-25",
+        "Category": "Transport",
+        "Amount": 60,
+        "Description": "Metro to indranagar",
+        "Created At": "2026-08-06T04:05:14.774Z"
+    },
+    "15": {
+        "ID": "exp_a4dc9qmy1",
+        "Date": "2026-07-25",
+        "Category": "Food",
+        "Amount": 20,
+        "Description": "Ground nut",
+        "Created At": "2026-08-06T04:06:17.280Z"
+    },
+    "16": {
+        "ID": "exp_abab3opcd",
+        "Date": "2026-07-25",
+        "Category": "Others",
+        "Amount": 90,
+        "Description": "Flower shop",
+        "Created At": "2026-08-06T04:05:50.736Z"
+    },
+    "17": {
+        "ID": "exp_db4c8u9nx",
+        "Date": "2026-07-25",
+        "Category": "Shopping",
+        "Amount": 20,
+        "Description": "Surfexcel",
+        "Created At": "2026-08-06T04:03:14.015Z"
+    },
+    "18": {
+        "ID": "exp_e380hxlrl",
+        "Date": "2026-07-25",
+        "Category": "Transport",
+        "Amount": 100,
+        "Description": "Badminton metro",
+        "Created At": "2026-08-06T03:49:59.146Z"
+    },
+    "19": {
+        "ID": "exp_pajqjs4sq",
+        "Date": "2026-07-25",
+        "Category": "Transport",
+        "Amount": 12,
+        "Description": "Badminton bus",
+        "Created At": "2026-08-06T03:49:34.956Z"
+    },
+    "20": {
+        "ID": "exp_plnae02u3",
+        "Date": "2026-07-25",
+        "Category": "Transport",
+        "Amount": 12,
+        "Description": "Badminton bus",
+        "Created At": "2026-08-06T03:49:03.090Z"
+    },
+    "21": {
+        "ID": "exp_skild6fi2",
+        "Date": "2026-07-25",
+        "Category": "Transport",
+        "Amount": 60,
+        "Description": "Metro to Kadugodi",
+        "Created At": "2026-08-06T04:07:14.096Z"
+    },
+    "22": {
+        "ID": "exp_vt7nj5w8e",
+        "Date": "2026-07-25",
+        "Category": "Food",
+        "Amount": 15,
+        "Description": "Coconut purfie",
+        "Created At": "2026-08-06T04:04:11.267Z"
+    },
+    "23": {
+        "ID": "exp_wafdui6y8",
+        "Date": "2026-07-25",
+        "Category": "Transport",
+        "Amount": 100,
+        "Description": "Badminton metro",
+        "Created At": "2026-08-06T03:48:33.038Z"
+    },
+    "24": {
+        "ID": "exp_1l5mm6wyo",
+        "Date": "2026-07-24",
+        "Category": "Transport",
+        "Amount": 50,
+        "Description": "Metro to kr puram",
+        "Created At": "2026-08-06T03:41:56.458Z"
+    },
+    "25": {
+        "ID": "exp_8dz5d55rm",
+        "Date": "2026-07-24",
+        "Category": "Transport",
+        "Amount": 40,
+        "Description": "Friday night snacks",
+        "Created At": "2026-08-06T03:45:33.043Z"
+    },
+    "26": {
+        "ID": "exp_c6rc5gpoo",
+        "Date": "2026-07-24",
+        "Category": "Transport",
+        "Amount": 23,
+        "Description": "Kr Puram to offive",
+        "Created At": "2026-08-06T03:43:00.467Z"
+    },
+    "27": {
+        "ID": "exp_n6lurhl77",
+        "Date": "2026-07-24",
+        "Category": "Transport",
+        "Amount": 24,
+        "Description": "Office to kr puram",
+        "Created At": "2026-08-06T03:43:38.840Z"
+    },
+    "28": {
+        "ID": "exp_nf6q5lg05",
+        "Date": "2026-07-24",
+        "Category": "Transport",
+        "Amount": 60,
+        "Description": "Metro to kadugodi",
+        "Created At": "2026-08-06T03:46:41.957Z"
+    },
+    "29": {
+        "ID": "exp_p0kjwlolo",
+        "Date": "2026-07-24",
+        "Category": "Shopping",
+        "Amount": 233,
+        "Description": "Zepto",
+        "Created At": "2026-08-06T08:47:40.979Z"
+    },
+    "30": {
+        "ID": "exp_0cfiuuf96",
+        "Date": "2026-07-23",
+        "Category": "Transport",
+        "Amount": 23,
+        "Description": "Metro to kadugodi",
+        "Created At": "2026-08-06T03:29:40.948Z"
+    },
+    "31": {
+        "ID": "exp_3kx1hpeox",
+        "Date": "2026-07-23",
+        "Category": "Transport",
+        "Amount": 20,
+        "Description": "Metro to Indra Nagar",
+        "Created At": "2026-08-06T03:28:07.541Z"
+    },
+    "32": {
+        "ID": "exp_bopxiswpe",
+        "Date": "2026-07-23",
+        "Category": "Food",
+        "Amount": 100,
+        "Description": "Office lunch",
+        "Created At": "2026-08-06T03:31:34.861Z"
+    },
+    "33": {
+        "ID": "exp_cxhbco3v7",
+        "Date": "2026-07-23",
+        "Category": "Transport",
+        "Amount": 12,
+        "Description": "Bus to itpl movie night",
+        "Created At": "2026-08-06T03:40:23.797Z"
+    },
+    "34": {
+        "ID": "exp_wgagx73no",
+        "Date": "2026-07-23",
+        "Category": "Food",
+        "Amount": 24,
+        "Description": "Pg to office by bus",
+        "Created At": "2026-08-06T03:31:13.527Z"
+    },
+    "35": {
+        "ID": "exp_wy76i72b4",
+        "Date": "2026-07-23",
+        "Category": "Transport",
+        "Amount": 41,
+        "Description": "Bus to pg from office",
+        "Created At": "2026-08-06T03:39:52.595Z"
+    },
+    "36": {
+        "ID": "exp_gp8at9ifi",
+        "Date": "2026-07-22",
+        "Category": "Shopping",
+        "Amount": 55,
+        "Description": "Home store",
+        "Created At": "2026-08-06T03:26:21.570Z"
+    },
+    "37": {
+        "ID": "exp_2ziofaqyb",
+        "Date": "2026-07-20",
+        "Category": "Travel",
+        "Amount": 472,
+        "Description": "Bus to Bangalore",
+        "Created At": "2026-07-28T02:42:13.379Z"
+    },
+    "38": {
+        "ID": "exp_yy4wc5km3",
+        "Date": "2026-07-19",
+        "Category": "Shopping",
+        "Amount": 140,
+        "Description": "Home store",
+        "Created At": "2026-07-28T02:41:12.548Z"
+    },
+    "39": {
+        "ID": "exp_7v7hrde5t",
+        "Date": "2026-07-17",
+        "Category": "Shopping",
+        "Amount": 30,
+        "Description": "Home store",
+        "Created At": "2026-07-28T02:39:19.159Z"
+    },
+    "40": {
+        "ID": "exp_mz679v2yc",
+        "Date": "2026-07-17",
+        "Category": "Shopping",
+        "Amount": 150,
+        "Description": "Home store",
+        "Created At": "2026-07-28T02:40:28.494Z"
+    },
+    "41": {
+        "ID": "exp_0zd6p627z",
+        "Date": "2026-07-16",
+        "Category": "Others",
+        "Amount": 40000,
+        "Description": "Salary to dad",
+        "Created At": "2026-08-07T03:37:06.243Z"
+    },
+    "42": {
+        "ID": "exp_g01pnkx98",
+        "Date": "2026-07-16",
+        "Category": "Shopping",
+        "Amount": 230,
+        "Description": "Home store",
+        "Created At": "2026-07-27T13:47:50.648Z"
+    },
+    "43": {
+        "ID": "exp_3kbv3hna9",
+        "Date": "2026-07-15",
+        "Category": "Transport",
+        "Amount": 24,
+        "Description": "Pg to office",
+        "Created At": "2026-07-27T13:44:10.711Z"
+    },
+    "44": {
+        "ID": "exp_8lj0zy5ql",
+        "Date": "2026-07-15",
+        "Category": "Transport",
+        "Amount": 150,
+        "Description": "Slipper delivery",
+        "Created At": "2026-07-27T13:45:43.244Z"
+    },
+    "45": {
+        "ID": "exp_f0f6m0cas",
+        "Date": "2026-07-15",
+        "Category": "Transport",
+        "Amount": 30,
+        "Description": "Office to multiplex",
+        "Created At": "2026-07-27T13:46:27.542Z"
+    },
+    "46": {
+        "ID": "exp_ejl15xqvs",
+        "Date": "2026-07-14",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Pg to office",
+        "Created At": "2026-07-27T13:42:13.160Z"
+    },
+    "47": {
+        "ID": "exp_fkk1phx8m",
+        "Date": "2026-07-14",
+        "Category": "Food",
+        "Amount": 50,
+        "Description": "Office idly",
+        "Created At": "2026-07-27T13:43:26.011Z"
+    },
+    "48": {
+        "ID": "exp_wcoiu243w",
+        "Date": "2026-07-14",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Office to pg",
+        "Created At": "2026-07-27T13:43:45.995Z"
+    },
+    "49": {
+        "ID": "exp_nmwfdh3hu",
+        "Date": "2026-07-13",
+        "Category": "Travel",
+        "Amount": 450,
+        "Description": "Redbus to Coimbatore",
+        "Created At": "2026-07-27T13:41:24.908Z"
+    },
+    "50": {
+        "ID": "exp_xgmgh0gtz",
+        "Date": "2026-07-13",
+        "Category": "Others",
+        "Amount": 30,
+        "Description": "Unknown",
+        "Created At": "2026-07-27T13:40:38.600Z"
+    },
+    "51": {
+        "ID": "exp_mnso9zipx",
+        "Date": "2026-07-12",
+        "Category": "Food",
+        "Amount": 154,
+        "Description": "Zepto",
+        "Created At": "2026-08-06T08:46:40.995Z"
+    },
+    "52": {
+        "ID": "exp_f49tkwmmj",
+        "Date": "2026-07-11",
+        "Category": "Others",
+        "Amount": 2454,
+        "Description": "Movie date Silver",
+        "Created At": "2026-07-27T13:34:13.918Z"
+    },
+    "53": {
+        "ID": "exp_peo1eabn8",
+        "Date": "2026-07-11",
+        "Category": "Transport",
+        "Amount": 60,
+        "Description": "Movie Date Metro to kadukodi tree park",
+        "Created At": "2026-07-27T13:35:29.283Z"
+    },
+    "54": {
+        "ID": "exp_pul33t10a",
+        "Date": "2026-07-11",
+        "Category": "Food",
+        "Amount": 30,
+        "Description": "Movie date water bottle",
+        "Created At": "2026-07-27T13:32:33.223Z"
+    },
+    "55": {
+        "ID": "exp_vaayohbuv",
+        "Date": "2026-07-11",
+        "Category": "Food",
+        "Amount": 100,
+        "Description": "Movie date lunch",
+        "Created At": "2026-07-27T13:33:25.092Z"
+    },
+    "56": {
+        "ID": "exp_7xpgp2me0",
+        "Date": "2026-07-10",
+        "Category": "Transport",
+        "Amount": 40,
+        "Description": "Kr Puram to indranagar",
+        "Created At": "2026-07-27T13:29:27.934Z"
+    },
+    "57": {
+        "ID": "exp_b5e5hu5v3",
+        "Date": "2026-07-10",
+        "Category": "Transport",
+        "Amount": 60,
+        "Description": "Indranagar to kagudikodi tree park",
+        "Created At": "2026-07-27T13:30:46.542Z"
+    },
+    "58": {
+        "ID": "exp_glxa0b2c7",
+        "Date": "2026-07-10",
+        "Category": "Transport",
+        "Amount": 50,
+        "Description": "Kadugodi to kr puram",
+        "Created At": "2026-07-11T14:38:38.088Z"
+    },
+    "59": {
+        "ID": "exp_j6fg7cwex",
+        "Date": "2026-07-10",
+        "Category": "Transport",
+        "Amount": 15,
+        "Description": "Kr Puram to kadubhesnahalli",
+        "Created At": "2026-07-11T14:40:56.015Z"
+    },
+    "60": {
+        "ID": "exp_jmu4tgamj",
+        "Date": "2026-07-10",
+        "Category": "Others",
+        "Amount": 4159,
+        "Description": "Teju jumkha grt",
+        "Created At": "2026-07-11T14:40:09.537Z"
+    },
+    "61": {
+        "ID": "exp_mq4502y0u",
+        "Date": "2026-07-10",
+        "Category": "Food",
+        "Amount": 24,
+        "Description": "Kr Puram cookies",
+        "Created At": "2026-07-27T13:28:41.839Z"
+    },
+    "62": {
+        "ID": "exp_r2ipr579r",
+        "Date": "2026-07-10",
+        "Category": "Transport",
+        "Amount": 23,
+        "Description": "Office to kr puram",
+        "Created At": "2026-07-27T13:27:57.276Z"
+    },
+    "63": {
+        "ID": "exp_svwzf5433",
+        "Date": "2026-07-10",
+        "Category": "Entertainment",
+        "Amount": 359,
+        "Description": "Gatta Kusthi Movie",
+        "Created At": "2026-07-27T13:31:27.525Z"
+    },
+    "64": {
+        "ID": "exp_xqd6m2j6z",
+        "Date": "2026-07-10",
+        "Category": "Transport",
+        "Amount": 18,
+        "Description": "Kr Puram to marathahalli",
+        "Created At": "2026-07-11T14:39:16.119Z"
+    },
+    "65": {
+        "ID": "exp_639l5yp2h",
+        "Date": "2026-07-08",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Office to pg",
+        "Created At": "2026-07-11T14:37:38.151Z"
+    },
+    "66": {
+        "ID": "exp_8b09z61zn",
+        "Date": "2026-07-08",
+        "Category": "Others",
+        "Amount": 50,
+        "Description": "Did trim",
+        "Created At": "2026-07-11T14:34:48.833Z"
+    },
+    "67": {
+        "ID": "exp_ad423c2db",
+        "Date": "2026-07-08",
+        "Category": "Housing",
+        "Amount": 11270,
+        "Description": "Pg rent",
+        "Created At": "2026-07-28T02:36:45.409Z"
+    },
+    "68": {
+        "ID": "exp_cpcsxtxr4",
+        "Date": "2026-07-08",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Pg to office",
+        "Created At": "2026-07-11T14:35:32.497Z"
+    },
+    "69": {
+        "ID": "exp_v6utjm461",
+        "Date": "2026-07-07",
+        "Category": "Food",
+        "Amount": 284,
+        "Description": "Manis biriyani with boys",
+        "Created At": "2026-07-11T14:30:07.932Z"
+    },
+    "70": {
+        "ID": "exp_0h9bhob5s",
+        "Date": "2026-07-06",
+        "Category": "Others",
+        "Amount": 5000,
+        "Description": "Sri Kumaran chit",
+        "Created At": "2026-07-06T06:34:27.833Z"
+    },
+    "71": {
+        "ID": "exp_5hq7d634f",
+        "Date": "2026-07-06",
+        "Category": "Others",
+        "Amount": 5000,
+        "Description": "Suja akka chit",
+        "Created At": "2026-07-06T06:34:55.298Z"
+    },
+    "72": {
+        "ID": "exp_5yk3q46kc",
+        "Date": "2026-07-05",
+        "Category": "Transport",
+        "Amount": 12,
+        "Description": "Bus from KR Puram to Mahadev puram",
+        "Created At": "2026-07-05T13:54:24.902Z"
+    },
+    "73": {
+        "ID": "exp_mcpy9t0pu",
+        "Date": "2026-07-05",
+        "Category": "Transport",
+        "Amount": 100,
+        "Description": "Metro kr Puram to kadukodi tree park",
+        "Created At": "2026-07-05T13:53:42.844Z"
+    },
+    "74": {
+        "ID": "exp_3skehch6a",
+        "Date": "2026-07-04",
+        "Category": "Transport",
+        "Amount": 48,
+        "Description": "Tin factory to hebbal",
+        "Created At": "2026-07-04T16:32:35.263Z"
+    },
+    "75": {
+        "ID": "exp_ag1e29b6v",
+        "Date": "2026-07-04",
+        "Category": "Transport",
+        "Amount": 24,
+        "Description": "Chikkajalla to hunsmaranahalli",
+        "Created At": "2026-07-04T16:34:47.558Z"
+    },
+    "76": {
+        "ID": "exp_bmgu1phet",
+        "Date": "2026-07-04",
+        "Category": "Transport",
+        "Amount": 50,
+        "Description": "Kadukodi tree park to KR Puram",
+        "Created At": "2026-07-04T16:27:30.818Z"
+    },
+    "77": {
+        "ID": "exp_h0qloxnsv",
+        "Date": "2026-07-04",
+        "Category": "Transport",
+        "Amount": 60,
+        "Description": "Indara nagar to kadukodi tree park",
+        "Created At": "2026-07-04T16:42:36.231Z"
+    },
+    "78": {
+        "ID": "exp_i74xp8j29",
+        "Date": "2026-07-04",
+        "Category": "Transport",
+        "Amount": 48,
+        "Description": "Hebbal to Tinfactory",
+        "Created At": "2026-07-04T16:36:40.897Z"
+    },
+    "79": {
+        "ID": "exp_kk5y68e1n",
+        "Date": "2026-07-04",
+        "Category": "Shopping",
+        "Amount": 999,
+        "Description": "Trends Footwear",
+        "Created At": "2026-07-04T16:22:17.643Z"
+    },
+    "80": {
+        "ID": "exp_kzc8t4i7n",
+        "Date": "2026-07-04",
+        "Category": "Transport",
+        "Amount": 40,
+        "Description": "Tin factory to Indhra Nagar",
+        "Created At": "2026-07-04T16:37:50.034Z"
+    },
+    "81": {
+        "ID": "exp_m0azms6dv",
+        "Date": "2026-07-04",
+        "Category": "Food",
+        "Amount": 355,
+        "Description": "Nike lunch",
+        "Created At": "2026-07-04T16:35:22.350Z"
+    },
+    "82": {
+        "ID": "exp_o62765bp8",
+        "Date": "2026-07-04",
+        "Category": "Transport",
+        "Amount": 56,
+        "Description": "Hebbal to chikkajalla",
+        "Created At": "2026-07-04T16:33:26.960Z"
+    },
+    "83": {
+        "ID": "exp_r1l9ho19c",
+        "Date": "2026-07-04",
+        "Category": "Food",
+        "Amount": 60,
+        "Description": "Nandini Coconut Icecream",
+        "Created At": "2026-07-04T16:38:57.257Z"
+    },
+    "84": {
+        "ID": "exp_0er572jqn",
+        "Date": "2026-07-03",
+        "Category": "Transport",
+        "Amount": 60,
+        "Description": "Indhra Nagar to Kadugodi metro",
+        "Created At": "2026-07-04T16:26:42.469Z"
+    },
+    "85": {
+        "ID": "exp_mc8jpwc1z",
+        "Date": "2026-07-03",
+        "Category": "Food",
+        "Amount": 533,
+        "Description": "Manis",
+        "Created At": "2026-07-04T16:25:34.687Z"
+    },
+    "86": {
+        "ID": "exp_q76aec3qy",
+        "Date": "2026-07-03",
+        "Category": "Transport",
+        "Amount": 6,
+        "Description": "Office to kalamandir",
+        "Created At": "2026-07-04T16:24:46.377Z"
+    },
+    "87": {
+        "ID": "exp_yssj1fuxt",
+        "Date": "2026-07-03",
+        "Category": "Transport",
+        "Amount": 23,
+        "Description": "Kr Puram to office",
+        "Created At": "2026-07-03T09:41:46.040Z"
+    },
+    "88": {
+        "ID": "exp_zgfjbpmpl",
+        "Date": "2026-07-03",
+        "Category": "Food",
+        "Amount": 60,
+        "Description": "Biscuit for akka",
+        "Created At": "2026-07-03T09:41:07.290Z"
+    },
+    "89": {
+        "ID": "exp_df4bx9ehs",
+        "Date": "2026-07-02",
+        "Category": "Others",
+        "Amount": 100,
+        "Description": "Donated to small kid to save her life",
+        "Created At": "2026-07-02T06:18:57.985Z"
+    },
+    "90": {
+        "ID": "exp_iug0kjn8d",
+        "Date": "2026-07-02",
+        "Category": "Transport",
+        "Amount": 35,
+        "Description": "Bus from BPL to Kadubeeshnahalli",
+        "Created At": "2026-07-02T03:23:51.653Z"
+    },
+    "91": {
+        "ID": "exp_jy93gyytc",
+        "Date": "2026-07-02",
+        "Category": "Transport",
+        "Amount": 24,
+        "Description": "Office to pg by bus",
+        "Created At": "2026-07-02T08:29:22.927Z"
+    },
+    "92": {
+        "ID": "exp_o1oqo5ebk",
+        "Date": "2026-07-01",
+        "Category": "Others",
+        "Amount": 8555,
+        "Description": "Chit money for June month to Lakshmi akka",
+        "Created At": "2026-07-01T02:35:46.148Z"
+    },
+    "93": {
+        "ID": "exp_pv5izkwq9",
+        "Date": "2026-07-01",
+        "Category": "Education",
+        "Amount": 10000,
+        "Description": "For Pooji College Fees",
+        "Created At": "2026-07-01T02:42:43.200Z"
+    },
+    "94": {
+        "ID": "exp_v96b6rrsq",
+        "Date": "2026-07-01",
+        "Category": "Housing",
+        "Amount": 4750,
+        "Description": "Air Conditioner EMI for July Month",
+        "Created At": "2026-07-01T02:51:25.732Z"
+    }
+}

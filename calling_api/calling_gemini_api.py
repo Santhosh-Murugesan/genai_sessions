@@ -1,6 +1,7 @@
 from google import genai
 from dotenv import load_dotenv
 import os
+from PIL import Image
 
 load_dotenv()
 
@@ -19,7 +20,12 @@ while True:
     user_input = input("Enter your prompt (or type 'exit' to quit): ")
     if user_input.lower() == 'exit':
         break
-    response = call_gemini_api(user_input)
-    print("Response from Gemini API:", response)
 
+    # 3. Load your image using PIL
+    image = Image.open(r"C:\Users\Santhosh\OneDrive\Documents\GenAI_Workspace\genai_sessions\multimodel_emdedding_model\pdf_vector_store\images\page_2_image_1.jpeg")
+    print(image)
+    prompt = [image,user_input]
+    print("Prompt to Gemini API:", prompt)
+    response = call_gemini_api(prompt)  
+    print("Response from Gemini API:", response)
 

@@ -1,0 +1,5 @@
+provided by the bus provider (bus operator). These amenities will be provided
+unless there are some exceptions on certain days. Please note that redBus provides this information in good faith to help passengers to make an
+informed decision. The liability of the amenity not being made available lies with the operator and not with redBus.
+6. In case a booking confirmation e-mail and sms gets delayed or fails because of technical reasons or as a result of incorrect e-mail ID / phone
+number

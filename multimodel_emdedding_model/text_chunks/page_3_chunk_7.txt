@@ -1,0 +1,4 @@
+delayed or fails because of technical reasons or as a result of incorrect e-mail ID / phone
+number provided by the user etc, a ticket will be considered 'booked' as long as the ticket shows up on the confirmation page of www.redBus.in
+7. Grievances and claims related to the bus journey should to be reported to redBus support team within 7 days of your Travel date.
+8. Cancellation of this ticket is NOT allowed after bus departure time.

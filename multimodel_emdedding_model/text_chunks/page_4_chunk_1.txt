@@ -1,0 +1,5 @@
+Note Regarding Tax Invoice
+The tax invoice for this booking will be issued by the Bus Operator. This Bus Operator
+works on an aggregator model and qualifies as an e-commerce operator. Hence, the
+tax invoice for this booking as per the requirements of section 9(5) of the CGST Act will
+be issued by the Bus Operator to you.
